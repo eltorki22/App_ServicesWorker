@@ -46,7 +46,7 @@ install.addEventListener('click',()=>{
 // !!!! اشغل الابلكشن اوف لاين 
 
 if("serviceWorker" in navigator){
-    navigator.serviceWorker.register('https://raw.githubusercontent.com/eltorki22/App_ServicesWorker/refs/heads/main/sw.js').then((reg)=>{
+    navigator.serviceWorker.register('/sw.js').then((reg)=>{
 
         console.log("Register Services Worker")
 
