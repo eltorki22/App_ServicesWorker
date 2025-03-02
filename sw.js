@@ -27,7 +27,7 @@ let assets=[
     "/imgs/photos/1.jpg",
     "/imgs/photos/2.jpg",
     "/imgs/photos/3.jpg",
-    "/js/app.js",
+    "./js/app.js",
     "/index.html",
     "/manifest.json",
     "/sw.js",
