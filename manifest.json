@@ -11,32 +11,32 @@
     "lang":"en", 
     "icons":[
         {
-            "src":"/imgs/icon/1.png",
+            "src":"https://eltorki22.github.io/App_ServicesWorker/imgs/icon/1.jpg",
             "sizes":"72x72",
             "type":"image/png"
         },
         {
-            "src":"/imgs/icon/2.png",
+            "src":"https://eltorki22.github.io/App_ServicesWorker/imgs/icon/2.jpg",
             "sizes":"96x96",
             "type":"image/png"
         },
         {
-            "src":"/imgs/icon/3.png",
+            "src":"https://eltorki22.github.io/App_ServicesWorker/imgs/icon/3.jpg",
             "sizes":"128x128",
             "type":"image/png"
         },
         {
-            "src":"/imgs/icon/4.png",
+            "src":"https://eltorki22.github.io/App_ServicesWorker/imgs/icon/4.jpg",
             "sizes":"152x152",
             "type":"image/png"
         },
         {
-            "src":"/imgs/icon/5.png",
+            "src":"https://eltorki22.github.io/App_ServicesWorker/imgs/icon/5.jpg",
             "sizes":"384x384",
             "type":"image/png"
         },
         {
-            "src":"/imgs/icon/6.png",
+            "src":"https://eltorki22.github.io/App_ServicesWorker/imgs/icon/6.jpg",
             "sizes":"512x512",
             "type":"image/png"
         }
